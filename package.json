@@ -1,0 +1,20 @@
+{
+  "name": "jira-app-tutorial",
+  "version": "1.0.0",
+  "description": "https://developer.atlassian.com/cloud/jira/platform/getting-started/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests defined\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianshef/jira-app-tutorial.git"
+  },
+  "author": "Brian Shef <brian.shef@rewardstyle.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianshef/jira-app-tutorial/issues"
+  },
+  "homepage": "https://github.com/brianshef/jira-app-tutorial#readme",
+  "dependencies": {}
+}
